@@ -1,5 +1,5 @@
 # NinjaTime
 
-Get time on different country 
+Flutter Application to get Time in different places
 
 # XGroup
